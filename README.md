@@ -81,7 +81,8 @@ Led global server rollouts across Iraq country offices; managed multi-site teams
 
 ## 📌 Featured Projects
 
-> *(Pin your best repos here — suggested categories below)*
+- ☁️ **[devops-homelab](https://github.com/gavin-alan/devops-homelab)** — End-to-end AWS DevOps pipeline: Terraform, GitHub Actions CI/CD (OIDC), Docker, ECR/ECS, Application Load Balancer with HTTPS, AWS Bedrock GenAI endpoint with RAG, Prometheus/Grafana monitoring. [Live demo →](https://devops.gavinalan.com)
+- ☁️ **[azure-homelab](https://github.com/gavin-alan/azure-homelab)** — Parallel Azure implementation of the same cloud-agnostic FastAPI app: Terraform (azurerm), ACR, ACI deployment.
 
 - 🔧 **homelab-infra** — Proxmox + pfSense homelab setup with Terraform configs
 - ☁️ **aws-hybrid-architecture** — VPC, IAM, and EC2 reference architecture (IaC)
