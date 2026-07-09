@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a Senior Systems Engineer with 20 years of experience designing, deploying, and securing mission-critical infrastructure — from bare-metal server rooms to hybrid AWS cloud environments. I've worked across the UN, U.S. State Department, and enterprise sectors, leading teams and owning systems that can't afford to go down.
+I'm a Senior Systems Engineer with 21 years of experience designing, deploying, and securing mission-critical infrastructure — from bare-metal server rooms to hybrid AWS cloud environments. I've worked across the UN, U.S. State Department, and enterprise sectors, leading teams and owning systems that can't afford to go down.
 
 Currently pursuing my **AWS Certified Solutions Architect – Associate** and integrating AI/LLM tooling into infrastructure and automation workflows.
 
