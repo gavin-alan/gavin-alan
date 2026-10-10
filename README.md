@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Senior Systems Engineer</strong> · Infrastructure · Cloud · Security<br/>
-  Cary, NC &nbsp;|&nbsp; 21 Years of Enterprise IT Experience<br/>
+  Cary, NC &nbsp;|&nbsp; 20+ Years of Enterprise IT Experience<br/>
   <a href="https://gavinalan.com">🌐 gavinalan.com</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/gavinalan">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="mailto:jobs@gavinalan.com">✉️ jobs@gavinalan.com</a>
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a Senior Systems Engineer with 21 years of experience designing, deploying, and securing mission-critical infrastructure — from bare-metal server rooms to hybrid AWS cloud environments. I've worked across the UN, U.S. State Department, and enterprise sectors, leading teams and owning systems that can't afford to go down.
+I'm a Senior Systems Engineer with over 20 years of experience designing, deploying, and securing mission-critical infrastructure — from bare-metal server rooms to hybrid AWS cloud environments. I've worked across the UN, U.S. State Department, and enterprise sectors, leading teams and owning systems that can't afford to go down.
 
 Currently pursuing my **AWS Certified Solutions Architect – Associate** and integrating AI/LLM tooling into infrastructure and automation workflows.
 
@@ -56,13 +56,11 @@ Currently pursuing my **AWS Certified Solutions Architect – Associate** and in
 | Certification | Issuer |
 |---|---|
 | CompTIA Security+ | CompTIA |
-| Certified in Cybersecurity (CC) | ISC2 |
 | CompTIA Secure Infrastructure Specialist (CSIS) | CompTIA |
 | CompTIA Network Infrastructure Professional (CNIP) | CompTIA |
 | CompTIA IT Operations Specialist (CIOS) | CompTIA |
 | CompTIA Server+ / Network+ / A+ | CompTIA |
 | Linux Essentials | LPI |
-| AWS Certified Solutions Architect – Associate | *(In Progress)* |
 
 ---
 
@@ -84,11 +82,6 @@ Led global server rollouts across Iraq country offices; managed multi-site teams
 - ☁️ **[devops-homelab](https://github.com/gavin-alan/devops-homelab)** — End-to-end AWS DevOps pipeline: Terraform, GitHub Actions CI/CD (OIDC), Docker, ECR/ECS, Application Load Balancer with HTTPS, AWS Bedrock GenAI endpoint with RAG, Prometheus/Grafana monitoring. [Live demo →](https://devops.gavinalan.com)
 - ☁️ **[azure-homelab](https://github.com/gavin-alan/azure-homelab)** — Parallel Azure implementation of the same cloud-agnostic FastAPI app: Terraform (azurerm), ACR, ACI deployment.
 
-- 🔧 **homelab-infra** — Proxmox + pfSense homelab setup with Terraform configs
-- ☁️ **aws-hybrid-architecture** — VPC, IAM, and EC2 reference architecture (IaC)
-- 🐍 **sysadmin-scripts** — Python & PowerShell automation for reporting and data pipelines
-- 🛡️ **dr-bcp-templates** — Disaster Recovery & BCP documentation templates
-- 📊 **graylog-siem-setup** — SIEM deployment and alerting configuration guide
 
 ---
 
